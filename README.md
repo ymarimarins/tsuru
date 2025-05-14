@@ -3,6 +3,8 @@
 1- passo
 pegue uma folha de recorte um quadrado com as medidas de 20x por 20x
 
+![image1](/img/1.png)
+
 2- passo 
 pegue as duas pontas opostas e dobre formando um triangulo, aperte bem com os dedos para ficar marcado,volte as pontas, de maneira que fique quadrado igual ao começo. Agora pegue as outras pontas e faça o mesmo processo formando um triangulo semelhante ao outro, e volte a forma do inicio. Assim ficara as marcas no quadrado para facilitar a fazer nosso tsuru
  
