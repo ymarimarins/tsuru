@@ -38,12 +38,14 @@ pegue a ponta de baixo do losângulo e puxe ela para cima ate formar um barquinh
 
 ![image5](/img/5.png)
 
+![image6](/img/6.png)
+
 6- passo
 
 
 dobre a ponta de cima ao meio de forma que se encontre com a outra ponta de baixo, do outro lado encoste novamente as duas pontas laterais de encontro com o meio da forma
 
-![image6](/img/6.png)
+
 
 ![image7](/img/7.png)
 
